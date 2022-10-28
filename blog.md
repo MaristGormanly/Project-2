@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lessons 1-3 
+title: Lessns 1-3 
 subtitle: System Design Lessons
 ---
 <hr>
@@ -12,7 +12,7 @@ subtitle: System Design Lessons
       <h2>Lesson 1</h2>
       <h5></h5>
       <img src="https://media.giphy.com/media/GG4kiTuPtezNKHBXZZ/giphy.gif" alt="Logo.gif" style="width:400px;height:150px;">
-      <p>In the first lesson of System Design class, there was an emphasis on Git, GitHub, along with HTML, and CSS. More importanly we learned how they all connect with one another. The main takeway I took from this first lesson, was how git is an important tool for your changes in code, and Github is the website that centralize your Git history. Along with this I learned most of the git commands, and their function.</p>
+      <p>In the first lesson of System Design class, there was an emphasis on Git, GitHub, along with HTML, and CSS. More importanly we learned how they all connect with one another. The main takeway I took from this first lesson, was how git is an important ccctool for your changes in code, and Github is the website that centralize your Git history. Along with this I learned most of the git commands, and their function.</p>
     </div>
     <hr>
     <div class="card">
