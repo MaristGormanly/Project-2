@@ -3,6 +3,7 @@ layout: page
 title: Lessns 1-3 
 subtitle: System Design Lessons
 ---
+<!DOCTYPE html>
 <hr>
 <html>
 <head>
