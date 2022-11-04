@@ -3,6 +3,8 @@
 layout: page
 title: Blog
 subtitle: Computer Science Student
+sitemap:
+  priority: 0.9
 
 ---
 
