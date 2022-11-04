@@ -1,10 +1,10 @@
 # Site settings
-title: Home Page 
+title: Youssefs Home Page 
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "https://youssefa123.github.io/Project-2/" # the subpath of your site, e.g. /blog/
-url: "https://youssefa123.github.io/Project-2/" # the base hostname & protocol for your site
+baseurl: "/Youssef" # the subpath of your site, e.g. /blog/
+url: "https://youssefa123.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Home page

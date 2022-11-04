@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Youssef's Resume
+title: Blog
 subtitle: Computer Science Student
 
 ---
